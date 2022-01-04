@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JubaYer0307
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning programming 
+- 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on more open source projects
 - 📫 How to reach me jubayerahmed0307@gmail.com
 
