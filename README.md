@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **I am currently learning various web development frameworks such as React**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **jubayerahmed0307@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eyrsIwrOai9UyeZy5MpyF8YrtBnhkcLk/view?usp=drive_link](https://drive.google.com/file/d/1eyrsIwrOai9UyeZy5MpyF8YrtBnhkcLk/view?usp=drive_link)
