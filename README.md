@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jubayer Ahmed Raju</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **I am currently learning various web development frameworks such as React**
+- 🌱 **I am currently learning various web development frameworks such as React**
 
 - 📫 How to reach me **jubayerahmed0307@gmail.com**
 
